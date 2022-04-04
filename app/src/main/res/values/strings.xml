@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Flora Store</string>
+    <string-array name="country">
+        <item>+91</item>
+        <item>+36</item>
+        <item>+93</item>
+        <item>+94</item>
+        <item>+95</item>
+        <item>+972</item>
+        <item>+971</item>
+        <item>+966</item>
+    </string-array>
+    <string name="your_string_here">
+        This is an <u>underline</u>.
+    </string>
+</resources>
